@@ -1,4 +1,5 @@
 vrag/
 
 .env
-git 
+git
+__pycache__/
